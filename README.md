@@ -13,8 +13,8 @@
 
 ## Detect Face and Predict
 Detect khuôn mặt sử dụng thư viện của OpenCV. Với các tham số scaleFactor  = 1.05, minNeighbors =  6, minSize = (int(x_min), int(y_min))
-Với, original là ảnh input.
-----------------------------------------------------------
+Với, original là ảnh input
+-
 *x_min = original.shape[0]/15 , 1/15 chiều cao của ảnh*
 ----------------------------------------------------------
 *y_min = original.shape[1]/15 , 1/15 chiều rộng của ảnh* 
