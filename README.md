@@ -1,7 +1,7 @@
 # CS338.M21 - Facial Expression Recognition
 
 Ứng dụng dự đoán biểu cảm gương mặt sử dụng Streamlit, Python dựa trên model đã được train
-
+## Nhóm 10
 | MSSV       |  Họ và Tên       | Công Việc                               |
 | -----------| -------------    |-----------------------------------------|
 | 19522454   | Nguyễn Tấn Tú    | Train ResNet50, Detect Face and Predict |
