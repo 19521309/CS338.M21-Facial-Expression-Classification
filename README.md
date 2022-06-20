@@ -4,8 +4,7 @@
 ## Nhóm 10
 | MSSV       |  Họ và Tên       | Công Việc                               |
 | -----------| -------------    |-----------------------------------------|
-| 19522454   | Nguyễn Tấn Tú    | Train ResNet50, Detect Face and Predict |
-| 19522555   | Nguyễn Thị Như Ý | Train ResNet101, làm slide PowerPoint   |
-| 19521217   | Trần Nguyễn Quỳnh Anh | Train ResNet152, làm slide PowerPoint|
-| 19521309   | Đinh Hoàng Linh Đan | Deploy web API |
-<a href="[http://example.com/](https://www.kaggle.com/code/tunguyentan/face-emotion-recognition-using-resnet50)" target="_blank">Train ResNet50</a>
+| 19522454   | Nguyễn Tấn Tú    | [Train ResNet50](https://www.kaggle.com/code/tunguyentan/face-emotion-recognition-using-resnet50), [Detect Face and Predict](https://colab.research.google.com/drive/1Usju5dw62w1DWohTcj_Q7UezgPcG2j1S?usp=sharing) |
+| 19522555   | Nguyễn Thị Như Ý | [Train ResNet101](https://www.kaggle.com/code/ynguyenntc/face-emotion-recognition-using-resnet101/notebook?scriptVersionId=98631927), làm slide PowerPoint   |
+| 19521217   | Trần Nguyễn Quỳnh Anh | [Train ResNet152](https://www.kaggle.com/code/anhtrnnguynqunh/face-emotion-recognition-using-resnet152), làm slide PowerPoint|
+| 19521309   | Đinh Hoàng Linh Đan | [Deploy web API](https://drive.google.com/file/d/1Q_dHGH5G9k5SHwUfKCHIDOgZ0fHA3dNI/view?usp=sharing) |
