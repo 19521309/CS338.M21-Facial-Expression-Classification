@@ -1,8 +1,10 @@
-# CS338.M21
+# CS338.M21 - Facial Expression Recognition
 
 Ứng dụng dự đoán biểu cảm gương mặt sử dụng Streamlit, Python dựa trên model đã được train
 
 | MSSV       |  Họ và Tên       | Công Việc                               |
 | -----------| -------------    |-----------------------------------------|
 | 19522454   | Nguyễn Tấn Tú    | Train ResNet50, Detect Face and Predict |
-| 19522555   | Nguyễn Thị Như Ý | Train ResNet101, Làm slide PowerPoint, Đại diện báo cáo   |
+| 19522555   | Nguyễn Thị Như Ý | Train ResNet101, làm slide PowerPoint   |
+| 19521217   | Trần Nguyễn Quỳnh Anh | Train ResNet152, làm slide PowerPoint|
+| 19521309   | Đinh Hoàng Linh Đan | Deploy web API |
