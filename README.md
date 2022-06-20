@@ -2,7 +2,7 @@
 
 ## Nhóm 10
 
-### Giảng viên viên hướng dẫn :  Đỗ Văn Tiến
+**Giảng viên viên hướng dẫn :  Đỗ Văn Tiến**
 | MSSV       |  Họ và Tên       | Công Việc                               |
 | -----------| -------------    |-----------------------------------------|
 | 19522454   | Nguyễn Tấn Tú    | [Train ResNet50](https://www.kaggle.com/code/tunguyentan/face-emotion-recognition-using-resnet50), [Detect Face and Predict](https://colab.research.google.com/drive/1Usju5dw62w1DWohTcj_Q7UezgPcG2j1S?usp=sharing) |
@@ -16,6 +16,7 @@ Detect khuôn mặt sử dụng thư viện của OpenCV. Với các tham số s
 Với, original là ảnh input
      x_min = original.shape[0]/15 , 1/15 chiều cao của ảnh
      y_min = original.shape[1]/15 , 1/15 chiều rộng của ảnh 
+     
 **Source code** của Detect Face and Predict trong file DetectFaceAndPredict.ipynb
 
 ## Ứng dụng dự đoán biểu cảm gương mặt sử dụng Streamlit, Python dựa trên 3 model đã được train ở trên.
