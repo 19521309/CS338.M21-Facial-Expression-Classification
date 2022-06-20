@@ -8,3 +8,4 @@
 | 19522555   | Nguyễn Thị Như Ý | Train ResNet101, làm slide PowerPoint   |
 | 19521217   | Trần Nguyễn Quỳnh Anh | Train ResNet152, làm slide PowerPoint|
 | 19521309   | Đinh Hoàng Linh Đan | Deploy web API |
+<a href="http://example.com/" target="_blank">Hello, world!</a>
