@@ -14,10 +14,10 @@
 ## Detect Face and Predict
 Detect khuôn mặt sử dụng thư viện của OpenCV. Với các tham số scaleFactor  = 1.05, minNeighbors =  6, minSize = (int(x_min), int(y_min))
 Với, original là ảnh input
-x_min = original.shape[0]/15 , 1/15 chiều cao của ảnh
-y_min = original.shape[1]/15 , 1/15 chiều rộng của ảnh 
+*x_min = original.shape[0]/15 , 1/15 chiều cao của ảnh
+y_min = original.shape[1]/15 , 1/15 chiều rộng của ảnh* 
      
-**Source code** của Detect Face and Predict trong file DetectFaceAndPredict.ipynb
+***Source code*** của Detect Face and Predict trong file DetectFaceAndPredict.ipynb
 
 ## Ứng dụng dự đoán biểu cảm gương mặt sử dụng Streamlit, Python dựa trên 3 model đã được train ở trên.
-**Source code** của Deploy Web API trong file streamlit.py.
+***Source code*** của Deploy Web API trong file streamlit.py.
