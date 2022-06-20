@@ -2,6 +2,7 @@
 
 Ứng dụng dự đoán biểu cảm gương mặt sử dụng Streamlit, Python dựa trên model đã được train
 ## Nhóm 10
+###Giảng viên viên hướng dẫn :  Đỗ Văn Tiến
 | MSSV       |  Họ và Tên       | Công Việc                               |
 | -----------| -------------    |-----------------------------------------|
 | 19522454   | Nguyễn Tấn Tú    | [Train ResNet50](https://www.kaggle.com/code/tunguyentan/face-emotion-recognition-using-resnet50), [Detect Face and Predict](https://colab.research.google.com/drive/1Usju5dw62w1DWohTcj_Q7UezgPcG2j1S?usp=sharing) |
