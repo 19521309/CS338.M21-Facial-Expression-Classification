@@ -5,4 +5,4 @@
 | MSSV       |  Họ và Tên       | Công Việc                               |
 | -----------| -------------    |-----------------------------------------|
 | 19522454   | Nguyễn Tấn Tú    | Train ResNet50, Detect Face and Predict |
-| 19522555   | Nguyễn Thị Như Ý | Train ResNet101, Làm slide PowerPoint   |
+| 19522555   | Nguyễn Thị Như Ý | Train ResNet101, Làm slide PowerPoint, Đại diện báo cáo   |
